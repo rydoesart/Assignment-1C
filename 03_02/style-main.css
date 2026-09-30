@@ -356,3 +356,7 @@ CSS Grid layout for modern browsers:
 
 	}	
 }
+
+.bucket {
+	display: block;
+}
